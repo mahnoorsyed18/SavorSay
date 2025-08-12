@@ -15,7 +15,7 @@ const FetchPopular = () => {
 
     dispatch(fetchPopStatusActions.markFetchingStarted());
 
-    fetch("http://localhost:8080/popular", { signal })
+    fetch(`${import.meta.env.VITE_API_BASE}/popular`, { signal })
       .then((res) => res.json())
       .then((data) => {
         dispatch(fetchPopStatusActions.markFetchDone());

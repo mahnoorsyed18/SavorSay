@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { addInitialItems } from "../store/recipesSlice"; 
+import { addInitialItems } from "../store/recipesSlice";
 import { fetchRecStatusActions } from "../store/fetchRecStatusSlice";
 
 const FetchRecipes = () => {
@@ -15,12 +15,12 @@ const FetchRecipes = () => {
 
     dispatch(fetchRecStatusActions.markFetchingStarted());
 
-    fetch("http://localhost:8080/recipes", { signal })
+    fetch(`${import.meta.env.VITE_API_BASE}/recipes`, { signal })
       .then((res) => res.json())
       .then((data) => {
         dispatch(fetchRecStatusActions.markFetchDone());
         dispatch(fetchRecStatusActions.markFetchingFinished());
-        dispatch(addInitialItems(data.recipes)); 
+        dispatch(addInitialItems(data.recipes));
       })
       .catch((err) => {
         if (err.name !== "AbortError") {
