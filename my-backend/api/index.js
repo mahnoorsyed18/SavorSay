@@ -1,8 +1,8 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 
-const { getStoredRecipes, storeRecipes } = require("./data/recipes");
-const { getStoredPopular, storePopular } = require("./data/popular");
+const { getStoredRecipes, storeRecipes } = require("../data/recipes");
+const { getStoredPopular, storePopular } = require("../data/popular");
 
 const app = express();
 
