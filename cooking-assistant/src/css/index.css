@@ -1,0 +1,341 @@
+h1,h2,h3,h4,h5,h6{
+font-family: 'Eater', cursive;
+}
+ul{  
+padding:0;
+margin:0;
+list-style:none!important;
+}
+.border_none_1{   
+border-right:none!important;
+}
+.border_none_3{   
+border-bottom:none!important;
+} 
+.border_none_2{   
+border-left:none!important;
+} 
+.border_bottom_1{   
+border-bottom:1px solid #cccccc;
+}
+.border_bottom_2{   
+border-bottom:4px solid #669999;
+}
+.border_bottom_4{   
+border-top:1px solid #cccccc;
+}
+.padding_left_1{ 
+padding-left:0;
+}
+.padding_right_1{ 
+padding-right:0;
+}
+.padding_all{ 
+padding-left:0;
+padding-right:0;
+}
+.border_none_1{   
+border:none!important;
+} 
+.active_1{
+color: #a175aa!important;
+}
+.topHead h1{ 
+color: #ffffff;
+font-size: 113px;
+line-height: 1.2; 
+}
+/*********************header****************/
+#header .navbar-default {
+  background: transparent;
+  transition: background-color 0.3s ease; /* Smooth transition when changing color */
+  padding-top: 5px; /* Reduce top padding */
+  padding-bottom: 5px; /* Reduce bottom padding */
+}
+
+#header .navbar-default.scrolled {
+  background-color: #5c1a03 !important; /* Change to brown when scrolled */
+}
+
+#header .navbar-brand {
+  font-size: 28px; /* Reduce font size */
+  font-family: none;
+  font-style: oblique;
+  color: #78A2EC !important;
+  font-weight: bold;
+  padding-left: 0px;
+}
+
+#header .navbar-nav.navbar-right:last-child {
+  padding-right: 0px;
+  padding-left: 20px; /* Reduce padding on the left */
+  padding-top: 3px; /* Reduce top padding */
+}
+
+#header {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+#header .navbar-default .navbar-nav > li > a {
+  color: #fff;
+  font-size: 14px; /* Reduce font size */
+  font-weight: bold;
+  padding-bottom: 10px; /* Reduce vertical padding */
+  font-family: 'Eater', cursive;
+}
+
+#header .navbar-default .navbar-nav > li > a:hover {
+  color: #fec764;
+}
+
+#header .nav > li > a {
+  padding: 8px 10px; /* Reduce padding */
+  margin: 5px;
+}
+
+#header .navbar-default .navbar-nav > .open > a,
+#header .navbar-default .navbar-nav > .open > a:hover,
+#header .navbar-default .navbar-nav > .open > a:focus {
+  background: none !important;
+  color: none !important;
+}
+
+#header .navbar-default {
+  background: none;
+  border: none;
+  padding-top: 5px; /* Further reduce top padding */
+  margin-bottom: 0;
+}
+
+#header .navbar-brand {
+  font-size: 24px; /* Smaller font size */
+  font-family: 'Eater', cursive;
+  font-style: oblique;
+  color: #fff !important;
+  font-weight: bold;
+}
+
+#header .navbar-brand i {
+  font-size: 36px; /* Slightly reduce icon size */
+  color: #CC66FF;
+}
+
+#header .navbar-brand span {
+  color: #000;
+  font-size: 20px; /* Reduce font size */
+  font-style: normal;
+  font-weight: bold;
+  padding-left: 0px;
+}
+
+#header .navbar-default .color_1 {
+  font-size: 16px; /* Reduce font size */
+  color: #545454;
+  font-weight: bold;
+  padding-bottom: 15px; /* Reduce padding */
+}
+
+#header .navbar-default ul li ul {
+  background: #fff;
+  padding: 0;
+  width: 180px; /* Narrow the dropdown */
+  padding-left: 0px;
+  padding-top: 10px; /* Reduce padding */
+  padding-bottom: 10px;
+}
+
+#header .navbar-default ul li ul li:hover {
+  background: none;
+}
+
+#header .navbar-default ul li ul li a {
+  font-size: 14px; /* Reduce font size */
+  line-height: 16px; /* Reduce line-height */
+  padding: 5px 20px; /* Reduce padding */
+  color: #000000;
+}
+
+#header .navbar-default ul li ul li a:hover {
+  background: none;
+  color: #fec764;
+}
+
+#header .nav li .color_1:hover {
+  color: #a175aa !important;
+}
+
+#header .navbar-default .navbar-nav > .active > a,
+#header .navbar-default .navbar-nav > .active > a,
+#header .navbar-default .navbar-nav > .active > a:focus {
+  background: none;
+  color: #fec764;
+  font-family: 'Eater', cursive;
+}
+
+/*********************header_end****************/
+
+@media screen and (max-width : 767px){
+#header .navbar-collapse {
+max-height:none;
+}
+#header .navbar-default .navbar-nav>li>a {
+padding-bottom: 0px;
+}
+#header .navbar-brand {
+padding-left: 10px;
+}
+#header .navbar-nav.navbar-right:last-child {
+padding-right: 0px;
+padding-left: 0px;
+padding-top:0px;
+background-color:  #5c1a03;
+text-align: center;
+}
+#header .navbar-default ul li ul {
+width: 100%;
+}
+.topHead h1 {
+font-size: 33px;
+}
+#header .navbar-default {
+background-color:  #5c1a03;
+padding-top:0px;
+}
+#header .navbar-default ul li ul {
+background-color:  #5c1a03;
+}
+#header .navbar-default ul li ul li a {
+color: #fff;
+}
+}
+ 
+@media (min-width:768px) and (max-width:960px) { 
+#header .nav>li>a {
+padding: 10px 4px;
+}
+#header .navbar-brand {
+padding-left: 10px;
+}
+
+#header .nav>li>a {
+margin: 0px;
+}
+}
+ 
+ 
+@media (min-width:961px) and (max-width:1200px) {
+#header .nav>li>a {
+padding: 10px 7px;
+margin: 2px;
+}
+
+#header .navbar-nav.navbar-right:last-child {
+padding-left: 0px;
+}
+}
+ 
+/* Fix the nav layout on desktop */
+@media (min-width: 768px) {
+#header .navbar-header,
+#header .navbar-collapse {
+  display: flex;
+  align-items: center;
+}
+#header .navbar-header {
+  flex: 1;
+}
+
+#header .navbar-collapse {
+  justify-content: flex-end;
+  flex: 2;
+}
+
+#header .navbar-nav {
+  display: flex;
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  align-items: center;
+}
+
+#header .navbar-nav li {
+  display: inline-block;
+}
+
+#header .navbar-nav li a {
+  display: inline-block;
+}
+}
+
+/* Force nav items in one line */
+.navbar-nav {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center;
+  justify-content: flex-end;
+  flex-wrap: nowrap;
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 100%;
+}
+
+/* Make sure li are inline */
+.navbar-nav > li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+/* Ensure links don't break */
+.navbar-nav > li > a {
+  display: inline-block;
+  padding: 10px 15px;
+  white-space: nowrap;
+}
+
+/* Header */
+/* Mobile Sidebar Style */
+@media (max-width: 767.98px) {
+.custom-mobile-sidebar {
+  position: fixed;
+  top: 60px; /* adjust if needed depending on navbar height */
+  right: 0;
+  background-color: #C1ADA0;
+  width: 200px;
+  height: 100%;
+  padding-top: 20px;
+  box-shadow: -2px 0 8px rgba(0, 0, 0, 0.2);
+  transform: translateX(100%);
+  transition: transform 0.3s ease-in-out;
+  z-index: 999;
+}
+
+.custom-mobile-sidebar.open {
+  transform: translateX(0);
+}
+
+.custom-mobile-sidebar ul {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-left: 20px;
+}
+
+.custom-mobile-sidebar li {
+  margin-bottom: 15px;
+}
+
+/* Prevent Bootstrap's collapse class from interfering */
+.custom-mobile-sidebar.collapse {
+  display: block !important;
+  height: auto !important;
+  overflow: visible !important;
+}
+}
+
+/* Popular section */
+#popular {
+  scroll-margin-top: 100px; 
+}
+  

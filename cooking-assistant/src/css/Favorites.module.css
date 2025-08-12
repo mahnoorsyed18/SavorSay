@@ -1,0 +1,88 @@
+#favoritesSection{	
+background-image: url('./img/favorite.jpg');
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: cover;	 
+}
+.favoritesContent{ 
+padding-bottom: 150px;
+padding-top: 150px;
+background-color: #0009;
+ }
+
+/* Grid container */
+.fav {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* Flexible columns */
+  gap: 1rem;
+  padding: 1rem;
+  justify-items: center; /* Center cards when fewer fit in a row */
+}
+
+/* Each recipe card */
+.recipeCard {
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 100%; /* Fill available grid space */
+  max-width: 200px; /* Don't grow too large on big screens */
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+  box-sizing: border-box; /* Prevent padding from increasing width */
+}
+
+/* Recipe image */
+.recipeImage {
+  width: 100%;
+  border-radius: 5px;
+}
+
+/* Remove button */
+.removeButton {
+  margin-top: 5px;
+  background: red;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+/* Section background wrapper */
+.favWrapper {
+  min-height: 70vh;
+  background-image: url('/img/bg.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 40px 10px;
+}
+
+/* Empty message */
+.emptyMessage {
+  font-size: 20px;
+  font-weight: bold;
+  color: #fff;
+}
+
+@media screen and (max-width: 767px) {
+#favoritesSection {
+background-attachment: inherit;
+}
+.favoritesContent {
+padding-bottom: 50px;
+padding-top: 50px;
+}
+}
+
+@media (min-width:768px) and (max-width:960px) {
+.favoritesContent {
+padding-bottom: 100px;
+padding-top: 100px;
+}
+}
+
+@media (min-width:961px) and (max-width:1200px) {
+.favoritesContent {
+padding-bottom: 100px;
+padding-top: 100px;
+}
+}

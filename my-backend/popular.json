@@ -1,0 +1,818 @@
+{
+  "popular": [
+    {
+      "id": 1,
+      "name": "Samosas",
+      "category": "Snacks",
+      "subtitle": "Crispy fried pastries with a savory filling.",
+      "description": "Samosas are a popular appetizer, featuring a golden-brown, crispy pastry filled with a spiced mixture of potatoes, peas, and sometimes minced meat.",
+      "servingsize": "6-8 samosas",
+      "cookingtime": "40 minutes",
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "3 tablespoons oil",
+        "1/4 teaspoon salt",
+        "Water as needed",
+        "2 boiled potatoes (mashed)",
+        "1/2 cup boiled peas",
+        "1 teaspoon cumin seeds",
+        "1 teaspoon garam masala",
+        "1/2 teaspoon chili powder",
+        "Salt to taste",
+        "Oil for frying"
+      ], 
+      "method": [
+        "Prepare the dough by mixing flour, oil, salt, and water until it forms a smooth dough. Cover and let rest for 30 minutes.",
+        "For the filling, heat a pan and add cumin seeds. Once aromatic, add mashed potatoes, peas, garam masala, chili powder, and salt. Mix well and let cool.",
+        "Divide the dough into small balls, roll them out, and cut into halves to form semicircles.",
+        "Shape each semicircle into a cone, fill it with the potato mixture, and seal the edges with water.",
+        "Heat oil in a pan and deep-fry the samosas until golden brown. Serve hot with chutney."
+      ],
+      "calories": "120 per piece",
+      "images": "/img/samosa.jpg"  
+    },
+    {
+      "id": 2,
+      "name": "Falooda",
+      "category": "Dessert",
+      "subtitle": "A sweet and refreshing dessert drink.",
+      "description": "Falooda is a traditional South Asian dessert drink made with milk, rose syrup, vermicelli, basil seeds, and often topped with ice cream.",
+      "servingsize": "2 cups",
+      "cookingtime": "15 minutes",
+      "ingredients": [
+        "2 cups chilled milk",
+        "2 tablespoons rose syrup",
+        "2 tablespoons soaked basil seeds (sabja seeds)",
+        "50 grams cooked vermicelli",
+        "2 scoops vanilla ice cream",
+        "1 tablespoon chopped nuts (optional)"
+      ],
+      "method": [
+        "Soak basil seeds in water for 15 minutes until they swell.",
+        "Cook vermicelli as per package instructions and cool it down.",
+        "In a glass, layer rose syrup, cooked vermicelli, and basil seeds.",
+        "Pour chilled milk over the layers and stir gently.",
+        "Top with a scoop of vanilla ice cream and garnish with nuts if desired.",
+        "Serve immediately."
+      ],
+      "calories": "250 kcal per serving",
+      "images": 
+        "/img/falooda.jpg"
+      
+    },
+    {
+      "id": 3,
+      "name": "Chicken Biryani",
+      "category": "Pakistani",
+      "subtitle": "Aromatic spiced rice with marinated chicken.",
+      "description": "Chicken Biryani is a flavorful and aromatic dish combining tender marinated chicken with spiced basmati rice.",
+      "servingsize": "4 servings",
+      "cookingtime": "1 hour 30 minutes",
+      "ingredients": [
+        "2 cups basmati rice",
+        "500g chicken, cut into pieces",
+        "1 cup yogurt",
+        "2 onions, thinly sliced",
+        "3 tomatoes, chopped",
+        "2 tbsp biryani masala",
+        "1 tsp turmeric",
+        "2 tsp ginger-garlic paste",
+        "1/2 cup cilantro and mint leaves, chopped",
+        "3 tbsp ghee or oil",
+        "4 cups water",
+        "Salt to taste"
+      ],
+      "method": [
+        "Wash and soak the basmati rice for 30 minutes.",
+        "Marinate the chicken with yogurt, biryani masala, turmeric, ginger-garlic paste, and salt. Let it rest for 1 hour.",
+        "In a large pot, heat ghee and fry onions until golden brown. Remove half the onions for garnish.",
+        "Add tomatoes, marinated chicken, and cook until the chicken is tender.",
+        "In a separate pot, boil water with salt and cook the rice until 70% done. Drain and set aside.",
+        "Layer the pot with half the rice, then the chicken, followed by the remaining rice.",
+        "Sprinkle cilantro, mint leaves, and fried onions. Cover tightly and cook on low heat (dum) for 20 minutes.",
+        "Serve hot with raita or salad."
+      ],
+      "calories": "450 kcal per serving",
+      "images": "/img/chicken-biryani.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Chicken Karahi",
+      "category": "Pakistani",
+      "subtitle": "Spicy Meat Cooked in a Wok",
+      "description": "Karahi is a famous Pakistani dish made with tender meat, cooked in a wok-like pan (karahi) with tomatoes, green chilies, and aromatic spices.",
+      "servingsize": "4 people",
+      "cookingtime": "1 hour",
+      "ingredients": [
+        "500g chicken, cut into pieces",
+        "2 tablespoons ginger-garlic paste",
+        "2 tomatoes, chopped",
+        "2 green chilies, slit",
+        "1 onion, chopped",
+        "1 teaspoon cumin seeds",
+        "1 teaspoon coriander powder",
+        "1 teaspoon red chili powder",
+        "1/2 teaspoon turmeric powder",
+        "1 teaspoon garam masala",
+        "Salt to taste",
+        "Fresh coriander for garnish",
+        "4 tablespoons oil"
+      ],
+      "method": [
+        "Heat oil in a karahi or deep pan. Add cumin seeds and fry for a few seconds.",
+        "Add chopped onions and cook until golden brown.",
+        "Add ginger-garlic paste and cook for another minute.",
+        "Add chicken pieces and cook until browned.",
+        "Add tomatoes, green chilies, coriander powder, red chili powder, turmeric powder, and salt.",
+        "Cook for 15-20 minutes until the meat is cooked and tender.",
+        "Add garam masala and stir well.",
+        "Garnish with fresh coriander leaves before serving."
+      ],
+      "calories": "350 kcal per serving",
+      "images": 
+        "/img/chicken_karahi.jpg"
+      
+    },
+    {
+      "id": 5,
+      "name": "Lassi",
+      "category": "Drinks",
+      "subtitle": "A traditional yogurt-based drink",
+      "description": "Lassi is a popular drink in South Asia, made from yogurt and available in sweet or salty varieties. It's a perfect summer cooler.",
+      "servingsize": "1 large glass",
+      "cookingtime": "10 minutes",
+      "ingredients": [
+        "1 cup plain yogurt",
+        "1/2 cup cold water or milk",
+        "2 tablespoons sugar or salt (for sweet or salty lassi)",
+        "1/4 teaspoon ground cardamom (optional, for sweet lassi)",
+        "Ice cubes as needed"
+      ],
+      "method": [
+        "Blend yogurt, water/milk, sugar or salt, and optional cardamom in a blender until smooth and frothy.",
+        "Pour the mixture into a glass over ice cubes.",
+        "Garnish with a sprinkle of cardamom or a sprig of mint if desired.",
+        "Serve chilled."
+      ],
+      "calories": "150 kcal per serving",
+      "images": 
+        "/img/lassi.jpg"
+      
+    },
+    {
+      "id": 6,
+      "name": "Haleem",
+      "category": "Pakistani",
+      "subtitle": "A Savory and Hearty Stew",
+      "description": "Haleem is a slow-cooked stew made with wheat, barley, lentils, and meat (usually chicken or beef). It’s a rich and creamy dish that is popular during Ramadan and other festive occasions.",
+      "servingsize": "6-8 people",
+      "cookingtime": "3 hours",
+      "ingredients": [
+        "500g chicken or beef, cut into pieces",
+        "1/2 cup wheat",
+        "1/4 cup barley",
+        "1/2 cup lentils (yellow moong dal)",
+        "1 onion, finely chopped",
+        "1 tablespoon ginger-garlic paste",
+        "2 teaspoons cumin powder",
+        "1 teaspoon coriander powder",
+        "1/2 teaspoon turmeric powder",
+        "1 teaspoon red chili powder",
+        "1 teaspoon garam masala",
+        "Salt to taste",
+        "4 tablespoons ghee",
+        "Fresh coriander and mint for garnish",
+        "1/4 cup fried onions"
+      ],
+      "method": [
+        "Wash and soak the wheat, barley, and lentils for a few hours.",
+        "In a large pot, cook chicken or beef with ginger-garlic paste, cumin powder, coriander powder, red chili powder, and turmeric powder until the meat is tender.",
+        "Add the soaked wheat, barley, and lentils to the pot, and cook for 2-3 hours on low heat, stirring frequently to avoid burning.",
+        "Once the mixture has thickened and the meat is fully cooked, blend the stew using a hand blender or food processor to achieve a smooth consistency.",
+        "Add garam masala and salt, and cook for another 10 minutes.",
+        "Heat ghee in a separate pan and fry onions until golden brown. Add this to the haleem.",
+        "Garnish with fresh coriander, mint, and fried onions before serving."
+      ],
+      "calories": "500 kcal per serving",
+      "images": 
+        "/img/haleem.jpg"
+      
+    },
+    {
+      "id": 7,
+      "name": "Aloo Paratha",
+      "category": "Pakistani",
+      "subtitle": "Stuffed Flatbread with Spiced Potatoes",
+      "description": "Aloo Paratha is a traditional Indian flatbread stuffed with spiced mashed potatoes. It's served with yogurt, pickle, or a dollop of butter.",
+      "servingsize": "4 servings",
+      "cookingtime": "40 minutes",
+      "ingredients": [
+        "2 cups whole wheat flour",
+        "1 teaspoon salt",
+        "Water (as needed)",
+        "2 tablespoons oil",
+        "3 large potatoes, boiled and mashed",
+        "1 teaspoon cumin seeds",
+        "1 teaspoon garam masala",
+        "1 teaspoon red chili powder",
+        "1 teaspoon ground coriander",
+        "Salt to taste",
+        "Ghee or butter for cooking"
+      ],
+      "method": [
+        "Mix flour and salt in a bowl. Gradually add water and knead into a soft dough. Cover and set aside.",
+        "In a separate bowl, mix mashed potatoes with cumin seeds, garam masala, chili powder, ground coriander, and salt.",
+        "Divide the dough into 8 equal portions. Roll out each portion into a small circle, place a spoonful of the potato mixture in the center, and seal the dough around it.",
+        "Roll out the stuffed dough ball into a flat, round paratha.",
+        "Heat a tawa or skillet over medium heat, add ghee or butter, and cook each paratha until golden brown on both sides, brushing with more ghee if necessary.",
+        "Serve with yogurt or pickle."
+      ],
+      "calories": "300 kcal per serving",
+      "images": 
+        "/img/aloo-paratha.jpg"
+      
+    },
+    {
+      "id": 8,
+      "name": "Sweet and Sour Chicken",
+      "category": "Chinese",
+      "subtitle": "Tangy and flavorful chicken with pineapple and bell peppers.",
+      "description": "A vibrant and tangy dish with crispy chicken coated in a sweet and sour sauce, paired with vegetables and pineapple.",
+      "servingsize": "4 people",
+      "cookingtime": "40 minutes",
+      "ingredients": [
+        "300g halal chicken breast (cut into chunks)",
+        "1/2 cup pineapple chunks",
+        "1/2 cup bell peppers (diced)",
+        "1/4 cup ketchup",
+        "2 tablespoons sugar",
+        "2 tablespoons vinegar",
+        "1 tablespoon soy sauce",
+        "1/4 cup cornstarch",
+        "1/4 cup all-purpose flour",
+        "Oil for frying"
+      ],
+      "method": [
+        "Combine cornstarch and flour in a bowl, coat chicken pieces, and fry until golden and crispy.",
+        "In a saucepan, mix ketchup, sugar, vinegar, and soy sauce. Heat until thickened.",
+        "In a wok, stir-fry bell peppers and pineapple for 2 minutes.",
+        "Add the crispy chicken to the wok and pour the sauce over it. Toss well.",
+        "Cook for another minute and serve hot."
+      ],
+      "calories": "450 kcal per serving",
+      "images": "/img/sweet-and-sour-chicken.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Seekh Kebabs",
+      "category": "BBQ",
+      "subtitle": "Minced Meat Kebabs Grilled on Skewers",
+      "description": "Seekh Kebabs are spiced minced meat, usually beef or chicken, formed onto skewers and grilled to perfection. They are a popular appetizer or main course in Pakistani cuisine.",
+      "servingsize": "4 people",
+      "cookingtime": "45 minutes",
+      "ingredients": [
+        "500g minced beef or chicken",
+        "1 onion, finely chopped",
+        "2 green chilies, chopped",
+        "1 tablespoon ginger-garlic paste",
+        "1 teaspoon cumin powder",
+        "1 teaspoon coriander powder",
+        "1/2 teaspoon red chili powder",
+        "1/4 teaspoon garam masala",
+        "1/4 teaspoon turmeric powder",
+        "Fresh coriander, chopped",
+        "Salt to taste",
+        "2 tablespoons oil"
+      ],
+      "method": [
+        "In a large bowl, mix the minced meat with all the ingredients, including onions, green chilies, ginger-garlic paste, and spices.",
+        "Knead the mixture well until it becomes smooth and holds together.",
+        "Divide the mixture into small portions and shape them around skewers.",
+        "Heat oil in a grill pan or outdoor grill and cook the kebabs for 10-15 minutes, turning them until they are cooked through and slightly charred.",
+        "Serve hot with naan or rice, and garnish with fresh coriander."
+      ],
+      "calories": "300 kcal per serving",
+      "images": 
+        "/img/seekh-kebabs.jpg"
+      
+    },
+    {
+      "id": 10,
+      "name": "Hot and Sour Soup",
+      "category": "Chinese",
+      "subtitle": "A tangy and spicy soup with tofu and mushrooms.",
+      "description": "A warming and flavorful soup that combines tangy and spicy elements, ideal for cold weather.",
+      "servingsize": "4 people",
+      "cookingtime": "30 minutes",
+      "ingredients": [
+        "4 cups chicken or vegetable broth",
+        "100g tofu (cubed)",
+        "1/2 cup mushrooms (sliced)",
+        "2 tablespoons soy sauce",
+        "1 tablespoon rice vinegar",
+        "1 teaspoon chili paste",
+        "1 egg (beaten)",
+        "1 tablespoon cornstarch (mixed with water)",
+        "2 green onions (chopped)"
+      ],
+      "method": [
+        "In a pot, bring broth to a boil and add soy sauce, vinegar, and chili paste.",
+        "Add tofu and mushrooms, simmering for 5 minutes.",
+        "Slowly pour the beaten egg into the soup while stirring to create egg ribbons.",
+        "Stir in the cornstarch mixture and cook until the soup thickens.",
+        "Garnish with green onions and serve hot."
+      ],
+      "calories": "150 kcal per serving",
+      "images": "/img/hot-and-sour-soup.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Chapli Kebab",
+      "category": "BBQ",
+      "subtitle": "Spiced Minced Meat Patties",
+      "description": "Chapli Kebab is a popular dish in Pakistan made with minced meat (usually beef or mutton) and a mixture of spices. It is shaped into round patties and fried until crispy.",
+      "servingsize": "4 people",
+      "cookingtime": "45 minutes",
+      "ingredients": [
+        "500g minced beef or mutton",
+        "1 onion, finely chopped",
+        "2 tomatoes, chopped",
+        "2 green chilies, chopped",
+        "1 tablespoon ginger-garlic paste",
+        "1 tablespoon coriander seeds, crushed",
+        "1 teaspoon cumin powder",
+        "1 teaspoon red chili powder",
+        "1/2 teaspoon turmeric powder",
+        "1/4 teaspoon garam masala",
+        "1/2 cup fresh coriander, chopped",
+        "1/4 cup pomegranate seeds",
+        "1 egg",
+        "1/4 cup cornflour or breadcrumbs",
+        "Salt to taste",
+        "Oil for frying"
+      ],
+      "method": [
+        "In a large bowl, combine the minced meat with onion, tomatoes, green chilies, ginger-garlic paste, coriander seeds, cumin powder, red chili powder, turmeric powder, and garam masala.",
+        "Add chopped coriander, pomegranate seeds, egg, and cornflour. Mix well and knead the mixture until smooth.",
+        "Shape the mixture into round patties.",
+        "Heat oil in a frying pan and fry the patties until golden brown and crispy on both sides.",
+        "Serve hot with naan or rice, and garnish with fresh coriander."
+      ],
+      "calories": "350 kcal per serving",
+      "images": 
+        "/img/chapli-kebab.jpg"
+      
+    },
+    {
+      "id": 12,
+      "name": "Spring Rolls",
+      "category": "Snacks",
+      "subtitle": "Crispy rolls filled with vegetables or meat",
+      "description": "Spring rolls are a crispy and delightful appetizer filled with a variety of vegetables or halal meat, served with dipping sauce.",
+      "servingsize": "8 rolls",
+      "cookingtime": "40 minutes",
+      "ingredients": [
+        "8 spring roll wrappers",
+        "1 cup shredded cabbage",
+        "1/2 cup grated carrots",
+        "1/2 cup cooked chicken (optional)",
+        "1 teaspoon soy sauce",
+        "1/2 teaspoon black pepper",
+        "1 teaspoon ginger-garlic paste",
+        "Oil for frying"
+      ],
+      "method": [
+        "Prepare the filling by stir-frying cabbage, carrots, chicken, soy sauce, black pepper, and ginger-garlic paste. Let it cool.",
+        "Place the filling on a spring roll wrapper, roll tightly, and seal the edges with water.",
+        "Heat oil in a pan and fry the spring rolls until golden brown.",
+        "Serve hot with sweet chili sauce."
+      ],
+      "calories": "150 per roll",
+      "images": "/img/spring-rolls.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Karak Chai",
+      "category": "Drinks",
+      "subtitle": "A spiced tea with condensed milk",
+      "description": "Karak chai is a strong, flavorful tea made with spices and sweetened condensed milk. It's popular in the Middle East.",
+      "servingsize": "1 cup",
+      "cookingtime": "15 minutes",
+      "ingredients": [
+        "1 cup water",
+        "1 teaspoon loose black tea leaves",
+        "2 cardamom pods, crushed",
+        "1 small cinnamon stick",
+        "2 tablespoons condensed milk"
+      ],
+      "method": [
+        "In a saucepan, bring water, tea leaves, cardamom pods, and cinnamon stick to a boil.",
+        "Simmer for 5 minutes to let the flavors infuse.",
+        "Strain the tea into a cup.",
+        "Add condensed milk and stir until well combined.",
+        "Serve hot."
+      ],
+      "calories": "120 kcal per serving",
+      "images": 
+        "/img/karak_chai.jpg"
+      
+    },
+    {
+      "id": 14,
+      "name": "Chicken Korma", 
+      "category": "Pakistani",
+      "subtitle": "Rich and Creamy Meat Curry",
+      "description": "Korma is a rich and creamy curry made with meat (chicken or beef), yogurt, and a blend of aromatic spices, often served on special occasions in Pakistan.",
+      "servingsize": "4 people",
+      "cookingtime": "1 hour 15 minutes",
+      "ingredients": [
+        "500g chicken, cut into pieces",
+        "2 onions, finely chopped",
+        "2 tomatoes, chopped",
+        "1/2 cup yogurt",
+        "1 tablespoon ginger-garlic paste",
+        "1 teaspoon cumin powder",
+        "1 teaspoon coriander powder",
+        "1 teaspoon red chili powder",
+        "1/2 teaspoon turmeric powder",
+        "1 teaspoon garam masala",
+        "Salt to taste",
+        "1/4 cup cream",
+        "2 tablespoons ghee or oil"
+      ],
+      "method": [
+        "Heat ghee or oil in a large pot. Add onions and sauté until golden brown.",
+        "Add ginger-garlic paste and cook for 1 minute.",
+        "Add chicken pieces and cook until browned.",
+        "Add tomatoes, cumin powder, coriander powder, red chili powder, turmeric powder, and salt. Cook for 10 minutes.",
+        "Add yogurt and cook for another 10 minutes until the oil separates.",
+        "Add garam masala and stir well.",
+        "Add cream and cook for an additional 5 minutes.",
+        "Serve hot with naan or rice."
+      ],
+      "calories": "450 kcal per serving",
+      "images": 
+        "/img/chicken_korma.jpg"
+      
+    },
+    {
+      "id": 15,
+      "name": "Pakoras",
+      "category": "Snacks",
+      "subtitle": "Spiced vegetable or chicken fritters",
+      "description": "Pakoras are crispy, golden fritters made with vegetables or chicken coated in a spiced chickpea flour batter, deep-fried to perfection.",
+      "servingsize": "6-8 pieces",
+      "cookingtime": "30 minutes",
+      "ingredients": [
+        "1 cup chickpea flour",
+        "1/2 cup water",
+        "1 teaspoon cumin seeds",
+        "1 teaspoon turmeric",
+        "1/2 teaspoon chili powder",
+        "Salt to taste",
+        "1 cup mixed vegetables (e.g., onions, spinach, potatoes)",
+        "Oil for frying"
+      ],
+      "method": [
+        "In a bowl, mix chickpea flour, water, cumin, turmeric, chili powder, and salt to form a thick batter.",
+        "Add vegetables to the batter and mix until well coated.",
+        "Heat oil in a pan and drop spoonfuls of the mixture into the hot oil.",
+        "Fry until golden brown, turning occasionally. Drain on paper towels and serve hot with chutney."
+      ],
+      "calories": "80 per piece",
+      "images": "/img/pakoras.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Gulab Jamun",
+      "category": "Dessert",
+      "subtitle": "Sweet Fried Dough Balls in Syrup",
+      "description": "Gulab Jamun is a popular dessert made from deep-fried dough balls soaked in rose-scented sugar syrup. It’s a classic sweet treat enjoyed during festivals and special occasions.",
+      "servingsize": "4-6 people",
+      "cookingtime": "1 hour",
+      "ingredients": [
+        "1 cup milk powder",
+        "1/4 cup all-purpose flour",
+        "1/4 teaspoon baking soda",
+        "2 tablespoons ghee or melted butter",
+        "2-3 tablespoons milk (as needed)",
+        "Oil for frying",
+        "2 cups sugar",
+        "1 cup water",
+        "1/2 teaspoon rose water",
+        "Cardamom pods (optional)"
+      ],
+      "method": [
+        "In a mixing bowl, combine milk powder, flour, and baking soda.",
+        "2Add melted ghee and mix. Gradually add milk to form a soft dough.",
+        "Divide the dough into small balls, ensuring they are smooth and crack-free.",
+        "Heat oil in a pan and fry the dough balls on low heat until golden brown.",
+        "In another pan, prepare the sugar syrup by boiling sugar, water, and cardamom. Simmer for 10 minutes.",
+        "Add rose water to the syrup and stir.",
+        "Once the dough balls are fried, soak them in the sugar syrup for 20-30 minutes.",
+        "Serve warm or at room temperature."
+      ],
+      "calories": "150 kcal per serving",
+      "images": 
+        "/img/gulab-jamun.jpg"
+      
+    },
+        {
+          "id": 17,
+          "name": "Dal Tarka",
+          "category": "Pakistani",
+          "subtitle": "Lentils with Tempered Spices",
+          "description": "Dal Tarka is a flavorful and comforting dish made with lentils cooked with spices, and then topped with a tempering of fried garlic, cumin, and other aromatic spices. It’s a common dish in Pakistani households, served with rice or roti.",
+          "servingsize": "4 people",
+          "cookingtime": "45 minutes",
+          "ingredients": [
+            "1 cup yellow lentils (moong dal or toor dal)",
+            "1 onion, finely chopped",
+            "2 tomatoes, chopped",
+            "1 teaspoon ginger-garlic paste",
+            "1 teaspoon cumin seeds",
+            "1/2 teaspoon turmeric powder",
+            "1/2 teaspoon red chili powder",
+            "Salt to taste",
+            "2 tablespoons oil or ghee",
+            "1/4 teaspoon asafoetida (hing)",
+            "1-2 dried red chilies",
+            "Fresh coriander for garnish"
+          ],
+          "method": [
+            "Rinse the lentils and cook them in a pot with enough water until tender and cooked through.",
+            "In a separate pan, heat oil or ghee. Add cumin seeds and let them splutter.",
+            "Add chopped onions and sauté until golden brown.",
+            "Add ginger-garlic paste and cook for a minute.",
+            "Add chopped tomatoes, turmeric powder, red chili powder, and salt. Cook until the tomatoes soften.",
+            "Add the cooked lentils to the pan and mix well.",
+            "In a small pan, heat ghee or oil for tempering. Add asafoetida, dried red chilies, and cumin seeds, frying them for a minute.",
+            "Pour the tempering over the dal and garnish with fresh coriander.",
+            "Serve hot with rice or roti."
+          ],
+          "calories": "200 kcal per serving",
+          "images": 
+            "/img/dal-tarka.jpg"
+          
+        },
+            {
+              "id": 18,
+              "name": "Fruit Salad",
+              "category": "Dessert",
+              "subtitle": "A refreshing mix of seasonal fruits.",
+              "description": "Fruit salad is a simple and refreshing dish made with a variety of fresh fruits, often served with honey or yogurt.",
+              "servingsize": "2 servings",
+              "cookingtime": "10 minutes",
+              "ingredients": [
+                "Strawberries",
+                "Blueberries",
+                "Banana",
+                "Apple",
+                "Grapes",
+                "Honey",
+                "Lemon juice"
+              ],
+              "method": [
+                "Chop all fruits into bite-sized pieces.",
+                "Mix in a bowl and drizzle with honey and lemon juice.",
+                "Serve chilled."
+              ],
+              "calories": "150 kcal per serving",
+              "images": "/img/fruit-salad.jpg"
+            },
+            {
+              "id": 19,
+              "name": "Chocolate Cake",
+              "category": "Dessert",
+              "subtitle": "A rich and moist chocolate cake.",
+              "description": "Chocolate Cake is a classic dessert that is moist, rich, and full of chocolate flavor.",
+              "servingsize": "6 servings",
+              "cookingtime": "45 minutes",
+              "ingredients": [
+                "200g flour",
+                "100g cocoa powder",
+                "200g sugar",
+                "2 eggs",
+                "100ml milk",
+                "100g butter",
+                "1 tsp baking powder"
+              ],
+              "method": [
+                "Preheat oven to 180°C.",
+                "Mix dry ingredients together.",
+                "Whisk eggs, milk, and melted butter.",
+                "Combine wet and dry ingredients.",
+                "Pour into a greased cake pan and bake for 35 minutes.",
+                "Let cool before serving."
+              ],
+              "calories": "400 kcal per serving",
+              "images": "/img/chocolate-cake.jpeg"
+            },
+{
+  "id": 20,
+  "name": "Chicken Fried Rice",
+  "category": "Chinese",
+  "subtitle": "Savory rice stir-fried with chicken and veggies",
+  "description": "Chicken Fried Rice is a quick and satisfying dish made by stir-frying cooked rice with tender chicken pieces, vegetables, soy sauce, and scrambled eggs. It’s a staple in many Chinese restaurants and a great way to use leftover rice. Perfect as a main meal, it’s packed with umami flavors and loved by both kids and adults.",
+  "servingsize": "3",
+  "cookingtime": "25 minutes",
+  "ingredients": [
+    "2 cups cooked rice (preferably cold)",
+    "200g chicken (cut into small pieces)",
+    "2 eggs",
+    "1/2 cup peas and carrots",
+    "2 tbsp soy sauce",
+    "1 tsp sesame oil",
+    "2 tbsp vegetable oil",
+    "2 green onions (chopped)",
+    "Salt and pepper to taste"
+  ],
+  "method": [
+    "Heat oil in a wok. Scramble eggs and set aside.",
+    "Add more oil and cook chicken until done. Set aside.",
+    "Stir-fry vegetables for 2–3 minutes.",
+    "Add rice and stir well to break up clumps.",
+    "Add cooked chicken and eggs back to the pan.",
+    "Season with soy sauce, sesame oil, salt, and pepper. Mix well.",
+    "Top with green onions before serving."
+  ],
+  "calories": "680",
+  "images": ["/img/chicken_fried_rice.jpg"]
+},
+{
+  "id": 21,
+  "name": "Fish and Chips",
+  "category": "Seafood",
+  "subtitle": "Crispy battered fish served with golden fries",
+  "description": "Fish and Chips is a classic British dish featuring white fish (usually cod or haddock) dipped in a seasoned batter, deep-fried until golden, and served with thick-cut fries. It’s commonly accompanied by tartar sauce and lemon wedges. A crispy, flaky, and satisfying meal perfect for lunch or dinner.",
+  "servingsize": "2",
+  "cookingtime": "35 minutes",
+  "ingredients": [
+    "2 white fish fillets (cod or haddock)",
+    "1 cup all-purpose flour",
+    "1/2 cup cold sparkling water",
+    "1 tsp baking powder",
+    "Salt and pepper to taste",
+    "Oil for deep frying",
+    "2 large potatoes (cut into thick fries)",
+    "Tartar sauce and lemon wedges for serving"
+  ],
+  "method": [
+    "Peel and cut potatoes. Soak in water for 10 minutes, then dry and fry until golden.",
+    "Mix flour, baking powder, salt, pepper, and sparkling water to make batter.",
+    "Coat fish fillets in batter. Deep-fry until golden brown and crispy.",
+    "Drain on paper towels. Serve with fries, lemon wedges, and tartar sauce."
+  ],
+  "calories": "680",
+  "images": ["/img/fish_and_chips.webp"]
+},
+{
+  "id": 22,
+  "name": "Hyderabadi Dum Biryani",
+  "category": "Pakistani",
+  "subtitle": "Authentic layered biryani cooked on dum",
+  "description": "Hyderabadi Dum Biryani is a famous South Indian rice dish made with marinated meat, basmati rice, saffron, and whole spices, layered and cooked together using the dum method. The aroma, richness, and bold flavors make it one of the most iconic biryanis in the world.",
+  "servingsize": "4",
+  "cookingtime": "1 hour 30 minutes",
+  "ingredients": [
+    "500g chicken (bone-in)",
+    "2 cups basmati rice",
+    "1/2 cup yogurt",
+    "2 onions (fried until golden)",
+    "2 tbsp ginger garlic paste",
+    "1/4 cup chopped mint leaves",
+    "1/4 cup chopped coriander leaves",
+    "1/4 tsp turmeric powder",
+    "1 tsp red chili powder",
+    "1 tsp garam masala",
+    "Saffron soaked in 2 tbsp warm milk",
+    "4 tbsp ghee",
+    "Salt to taste"
+  ],
+  "method": [
+    "Marinate chicken with yogurt, spices, fried onions, mint, and coriander. Let it sit for 2 hours.",
+    "Cook basmati rice till 70% done. Drain and keep aside.",
+    "Layer marinated chicken in a heavy pot. Top with rice, saffron milk, and ghee.",
+    "Seal the pot with dough and cook on low heat for 45 minutes.",
+    "Serve hot with raita or salan."
+  ],
+  "calories": "620",
+  "images": ["/img/hyderabadi_dum_biryani.jpg"]
+},
+{
+  "id": 23,
+  "name": "Sindhi Biryani",
+  "category": "Pakistani",
+  "subtitle": "Spicy and tangy biryani from Sindh",
+  "description": "Sindhi Biryani is known for its spiciness, tangy flavor, and the use of dried plums, potatoes, and tomatoes along with aromatic rice and meat. It's a festive and flavorful biryani from the Sindh region of Pakistan.",
+  "servingsize": "4",
+  "cookingtime": "1 hour 15 minutes",
+  "ingredients": [
+    "500g mutton or chicken",
+    "2 cups basmati rice",
+    "2 tomatoes (sliced)",
+    "2 potatoes (peeled and halved)",
+    "1/2 cup yogurt",
+    "1 onion (sliced)",
+    "2 tbsp ginger garlic paste",
+    "2 dried plums",
+    "Green chilies, mint and coriander",
+    "Whole spices (cloves, bay leaf, cinnamon)",
+    "1 tsp red chili powder",
+    "1 tsp coriander powder",
+    "Salt to taste",
+    "Oil for cooking"
+  ],
+  "method": [
+    "Fry onions until golden, add tomatoes, spices, and yogurt. Cook until oil separates.",
+    "Add meat and cook until tender. Add potatoes and plums.",
+    "Parboil rice and layer over meat. Top with mint, green chilies, and fried onions.",
+    "Steam cook (dum) for 20–25 minutes. Serve hot."
+  ],
+  "calories": "680",
+  "images": ["/img/sindhi_biryani.jpg"]
+},
+{
+  "id": 24,
+  "name": "Chicken Corn Soup",
+  "category": "Chinese",
+  "subtitle": "Comforting Asian-style chicken corn soup",
+  "description": "This Pakistani-style Chicken Corn Soup is rich, slightly thickened, and flavored with shredded chicken, sweet corn, and beaten egg. It's a popular winter favorite and is often served with soy sauce, vinegar, and chili sauce on the side.",
+  "servingsize": "4",
+  "cookingtime": "25 minutes",
+  "ingredients": [
+    "1 cup boiled, shredded chicken",
+    "1 cup sweet corn (whole or creamed)",
+    "4 cups chicken broth",
+    "2 tbsp cornflour mixed in water",
+    "1 egg, beaten",
+    "1/2 tsp white pepper",
+    "Salt to taste",
+    "Spring onions for garnish"
+  ],
+  "method": [
+    "Bring chicken broth to a boil.",
+    "Add shredded chicken and corn. Cook for 5 minutes.",
+    "Add cornflour slurry and stir until thickened slightly.",
+    "Slowly add beaten egg while stirring to form ribbons.",
+    "Season with salt and pepper. Garnish with spring onions.",
+    "Serve hot with condiments like soy sauce and vinegar."
+  ],
+  "calories": "220",
+  "images": ["/img/chicken_corn_soup.webp"]
+},
+{
+  "id": 25,
+  "name": "Cold Coffee",
+  "category": "Drinks",
+  "subtitle": "Chilled and frothy coffee delight",
+  "description": "Cold Coffee is a creamy and refreshing iced coffee beverage made with instant coffee, milk, sugar, and ice. It's perfect for coffee lovers looking for a cool treat.",
+  "servingsize": "2",
+  "cookingtime": "5 minutes",
+  "ingredients": [
+    "2 tsp instant coffee powder",
+    "2 tbsp sugar (adjust to taste)",
+    "1/2 cup water",
+    "1.5 cups cold milk",
+    "Ice cubes",
+    "2 scoops vanilla or coffee ice cream (optional)"
+  ],
+  "method": [
+    "Dissolve coffee and sugar in water.",
+    "Add milk and ice cubes. Blend until frothy.",
+    "Pour into glasses and optionally top with ice cream."
+  ],
+  "calories": "220",
+  "images": ["/img/cold_coffee.jpg"]
+},
+{
+  "id": 26,
+  "name": "Chicken Zinger Burger",
+  "category": "Fast Food",
+  "subtitle": "Crispy spicy chicken filet burger",
+  "description": "The Chicken Zinger Burger features a crispy, spicy fried chicken filet layered with fresh lettuce and mayonnaise in a sesame seed bun. It’s crunchy, flavorful, and a fan favorite of fast food lovers.",
+  "servingsize": "1",
+  "cookingtime": "30 minutes",
+  "ingredients": [
+    "1 chicken breast (butterflied)",
+    "Salt, pepper, paprika, garlic powder",
+    "1 egg",
+    "1/2 cup flour",
+    "1/4 cup cornstarch",
+    "Lettuce",
+    "Mayonnaise",
+    "1 burger bun",
+    "Oil for frying"
+  ],
+  "method": [
+    "Marinate chicken in spices for 30 mins.",
+    "Dip chicken in egg, then coat in flour + cornstarch mixture.",
+    "Deep fry until golden and cooked through.",
+    "Toast the bun and assemble with lettuce, mayo, and chicken.",
+    "Serve hot."
+  ],
+  "calories": "630",
+  "images": ["/img/chicken_zinger_burger.jpg"]
+}
+  ]
+}
