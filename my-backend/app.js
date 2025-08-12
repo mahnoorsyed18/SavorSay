@@ -97,6 +97,4 @@ app.post("/popular", async (req, res) => {
     .json({ message: "Stored new Popular Recipe.", popular: newPopular });
 });
 
-app.listen(8080, () => {
-  console.log("Server is running on port 8080");
-});
+module.exports = app;
