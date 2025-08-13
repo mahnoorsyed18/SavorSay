@@ -63,7 +63,9 @@ const RecipeDetail = () => {
         const isPopular = location.pathname.includes("/popular/");
         const endpoint = isPopular ? "popular" : "recipes";
 
-        const res = await fetch(`http://localhost:8080/${endpoint}/${name}`);
+        const res = await fetch(
+          `${import.meta.env.VITE_API_BASE}/${endpoint}/${name}`
+        );
         const data = await res.json();
         setRecipe(data.recipe);
       } catch (error) {

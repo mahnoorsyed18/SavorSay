@@ -12,7 +12,7 @@ const ViewAllRecipesButton = () => {
 
   const fetchAllRecipes = async () => {
     try {
-      const res = await fetch("http://localhost:8080/recipes");
+      const res = await fetch(`${import.meta.env.VITE_API_BASE}/recipes`);
       const data = await res.json();
       dispatch(addInitialItems(data.recipes));
       dispatch(setQuery(""));
