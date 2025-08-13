@@ -1,5 +1,5 @@
 #favoritesSection{	
-background-image: url('./img/favorite.jpg');
+background-image: url('/img/favorite.jpg');
 background-attachment: fixed;
 background-repeat: no-repeat;
 background-size: cover;	 
