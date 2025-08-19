@@ -203,6 +203,7 @@ const HeroSection = () => {
       sandwitch: "sandwich",
       sanwiches: "sandwich",
       sandwiches: "sandwich",
+      pizzas: "pizza",
       peezzaz: "pizza",
       pezaz: "pizza",
       peezas: "pizza",
